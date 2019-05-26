@@ -1,0 +1,56 @@
+.calendar {
+    width: 550px;
+    border: 1px solid black;
+   
+}
+
+.background {
+    
+   
+    height: 50px;
+}
+
+.day, .day__day, .day1{
+    width: 75px;
+    height: 45px;
+    float: left;
+    text-align: center;
+    border: 1px solid black;
+    
+   
+    
+}
+
+
+.aprel{
+
+   
+    width: 75px;
+    height: 40  px;
+    float: left;
+    text-align: center;
+    border: 1px solid black;
+    
+    
+
+}
+
+
+h2 {
+    text-align: center;
+}
+
+
+
+.day:hover {
+    background-color: yellow;
+}
+
+
+.day__day {
+    background: hsla(32, 94%, 69%, 0.5);
+}
+
+
+
+
